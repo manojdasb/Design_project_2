@@ -186,7 +186,7 @@ numpy>=1.24
 - **Live App:** [huggingface.co/spaces/manojdas23/predator_watch](https://huggingface.co/spaces/manojdas23/predator_watch)
 - **Dataset:** [Kaggle — Big Cats Image Classification](https://www.kaggle.com/datasets/patriciabrezeanu/big-cats-image-classification-dataset)
 - **Ntfy:** [ntfy.sh](https://ntfy.sh)
-  
+  **demo ideo:**https://drive.google.com/drive/u/4/folders/17au_-Ws-KS1pBsuv2oTfmj_9qgK6U5F_
 
 ---
 
